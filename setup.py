@@ -5,7 +5,7 @@ version = '1.0'
 
 setup(name='toutpt.unloading',
       version=version,
-      description="Unloading Plone by setup your zope project with technologies like varnish memcache relstorage, ...",
+      description="Unloading Plone by configure your zope instances & Plone sites with technologies like varnish memcache relstorage, ...",
       long_description=open("README.txt").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
